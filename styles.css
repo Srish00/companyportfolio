@@ -1,0 +1,141 @@
+/* header section */
+#top-header{
+  border-bottom: 1px solid #ebebeb;
+}
+#top-header a{
+  font-size: 0.89rem;
+  color:#2c3e50;
+  font-weight:600;
+  text-decoration: none;
+}
+.container-fluid{
+  padding-left: 0;
+  padding-right: 0;
+}
+#bottom-header{
+  background-color: #004d80;
+}
+nav ul li a{
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+/* footer section */
+.full-footer{
+  background-color: #243d4f;
+
+}
+.top-footer i{
+    color: silver;
+}
+.top-footer p{
+  color: white;
+}
+.top-footer a{
+  color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+.top-footer h3{
+  color: white;
+}
+.bottom-footer{
+  background-color:#031b2e;
+}
+.bottom-footer p{
+  color: white;
+}
+/* Home page top section */
+.top-section{
+  background-color: #3498db;
+  color: white;
+}
+.top-section a{
+color: white;
+font-weight: 700;
+}
+.top-section .btn{
+color: #fff;
+background-color: #004d80;
+
+}
+
+/* quality-section */
+.quality-img{
+  width: 200px;
+}
+/* requirements-section */
+.requirements-section{
+  background-color: #004d80;
+  color: white;
+}
+/* newsletter section */
+.newsletter-section{
+  background-color: #004d80;
+  color: white;
+}
+.newsletter-section .form-control{
+  height: 50px;
+  border-radius: 20px 0 0 20px;
+  border-color: transparent;
+}
+.newsletter-section .btn{
+  height: 50px;
+  border-radius: 0 20px 20px 0;
+  background-color: #243c4f;
+	color: #fff;
+}
+
+/* services section */
+.services-section a{
+  text-decoration: none;
+  font-weight: 600;
+}
+
+
+/* clients-section */
+.clients-section{
+  background-color: #f0f0f0;
+}
+/* breadcrumb-section */
+.breadcrumb-section{
+  background-color: aliceblue;
+}
+.breadcrumb-section a{
+  text-decoration: none;
+}
+.breadcrumb-section a:hover{
+  text-decoration:underline;
+}
+
+
+
+/* contact Us Page */
+.address a{
+   text-decoration: none;
+}
+/* Web Designing Page */
+
+.web-designing-section p{
+  text-align: justify;
+}
+.bar{
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: 15px;
+  border: 1px solid #616161;
+  color: #fff;
+}
+
+.web-development-section p{
+  text-align: justify;
+}
+.seo-services-section p{
+  text-align: justify;
+}
+.software-development-section p{
+  text-align: justify;
+}
+.graphic-designing-section p{
+  text-align: justify;
+}
